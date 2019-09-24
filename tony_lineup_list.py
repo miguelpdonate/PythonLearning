@@ -1,8 +1,8 @@
 
 kangaroos_lineup = ['Nathan', 'Cedric', 'Peter', 'Juan', 'Guillaume', 'Juan Carlos', 'Ryouga', 'Miguel', 'Gabriel']
 
-# for player in kangaroos_lineup:
-#     print(player)
+for player in kangaroos_lineup:
+    print(player)
 
 idx = 0
 
