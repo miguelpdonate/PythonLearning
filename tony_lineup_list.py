@@ -4,8 +4,9 @@ kangaroos_lineup = ['Nathan', 'Cedric', 'Peter', 'Juan', 'Guillaume', 'Juan Carl
 for player in kangaroos_lineup:
     print(player)
 
-idx = 0
+print('The Kangaroos lineup:')
 
+idx = 0
 while idx < len(kangaroos_lineup):
     print(f'{idx + 1}. {kangaroos_lineup[idx]}')
     idx += 1
