@@ -19,6 +19,7 @@ while country[idx] != 'Greece':
         print('ooooooops, I did not find Greece!')
         break
 
+# this is a comment to check git
 
 
 
